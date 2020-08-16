@@ -1,0 +1,18 @@
+{
+  "name": "client-hints",
+  "version": "0.0.0",
+  "description": "Hints about the browser",
+  "author": "omrilotan",
+  "license": "MIT",
+  "keywords": [
+    "CH"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omrilotan/client-hints.git"
+  },
+  "scripts": {
+    "prestart": "which docsify || npm i --no-save docsify-cli",
+    "start": "docsify serve docs -p 6375"
+  }
+}
