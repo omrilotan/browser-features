@@ -5,3 +5,4 @@
 	* [Is Mobile](/features/is-mobile.md)
 	* [Syntax Support](/features/syntax-support.md)
 	* [Visibility](/features/visibility.md)
+	* [Detect Ad Blocker](/features/detect-adblock.md)
